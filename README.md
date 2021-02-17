@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StefVanNieuwenhove
 - 👀 I’m interested in music, football
 - 🌱 I’m currently learning java and javaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig: stef_van_nieuwenhove
 
 <!---
